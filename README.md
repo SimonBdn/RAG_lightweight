@@ -1,2 +1,2 @@
 # RAG_lightweight
-RAG on XXX / hardware : Mac Air i3 8 Go 
+RAG on Yu Gi Oh TCG / hardware : Mac Air i3 8 Go 
