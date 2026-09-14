@@ -1,0 +1,28 @@
+# Yu-Gi-Oh! TCG - Règles de Base
+
+## Structure du Terrain et du Deck
+- Le Main Deck doit contenir entre 40 et 60 cartes.
+- L'Extra Deck peut contenir jusqu'à 15 cartes (Monstres Fusion, Synchro, Xyz, et Lien).
+- Le Side Deck peut contenir jusqu'à 15 cartes pour modifier le Deck entre les manches d'un match.
+- Chaque joueur commence le duel avec 8000 Points de Vie (LP).
+
+## Déroulement d'un Tour (Turn Structure)
+Chaque tour de jeu est divisé en 6 phases consécutives :
+1. Draw Phase : Le joueur actif pioche 1 carte du dessus de son Deck. Le joueur qui joue en premier au tour 1 ne pioche pas.
+2. Standby Phase : Phase durant laquelle certains effets de cartes s'activent ou des coûts d'entretien sont payés.
+3. Main Phase 1 : Le joueur peut invoquer des monstres, activer des cartes Magie et poser des cartes Piège.
+4. Battle Phase : Phase de combat (optionnelle pour le joueur actif). Le joueur qui commence le premier tour du duel ne peut pas entrer en Battle Phase.
+5. Main Phase 2 : Deuxième phase d'actions si la Battle Phase a eu lieu. Mêmes possibilités qu'en Main Phase 1.
+6. End Phase : Fin du tour, résolution des effets de fin de tour et défausse si la main contient plus de 6 cartes.
+
+## Invocations de Monstres
+- Invocation Normale : Autorisée une seule fois par tour, durant la Main Phase 1 ou 2, en Position d'Attaque face recto.
+- Poser un monstre (Set) : Compte comme l'Invocation Normale du tour, le monstre est placé face cachée en Position de Défense.
+- Sacrifice (Tribut) : Nécessite 1 sacrifice pour un monstre de Niveau 5 ou 6, et 2 sacrifices pour un monstre de Niveau 7 ou plus.
+- Invocation Spéciale : Invocations illimitées par tour par effet de carte, ou depuis l'Extra Deck (Fusion, Synchro, Xyz, Lien).
+
+## Les Chaînes et la Vitesse des Effets (Spell Speed)
+- Spell Speed 1 : Cartes Magie Normales, Équipement, Terrain, Rituel, et effets déclenchés de monstres. Ne peuvent pas être activés en réponse directe à une autre carte.
+- Spell Speed 2 : Cartes Piège Normales et Continues, Cartes Magie Jeu-Rapide, et Effets Rapides de monstres (Quick Effects). Peuvent être activés en réponse à un effet de Spell Speed 1 ou 2.
+- Spell Speed 3 : Cartes Piège Contre-Piège uniquement. Seul un autre Piège Contre-Piège peut être chaîné à une Spell Speed 3.
+- Résolution de la Chaîne : La chaîne se résout en sens inverse de son activation (principe Last In, First Out).
